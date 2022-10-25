@@ -1,8 +1,8 @@
 #Import needed libraries
+import time
 from bs4 import BeautifulSoup as bs
 import requests as rq
 import pygal
-import time
 import pygal
 from IPython.display import display, HTML
 
